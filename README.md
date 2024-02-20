@@ -1,4 +1,4 @@
-# Hackathon 2024
+# Digital Twin Hackathon 2024
 
 The digital twin hackathon 2024 will take place in Göttingen from 7-8 March 2024. Participation is on invite only. 
 We are planning to work on the following packages:
