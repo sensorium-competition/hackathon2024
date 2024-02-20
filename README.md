@@ -25,3 +25,9 @@ The focus of this year will be on usability. We would like to improve the packag
 | **16:30 - 17:00** | Progress Review and Feedback                 | Final discussion                          |
 | **17:00 - 18:00**   | Walking tour downtown Göttingen                                 | -- " --                                                  | 
 | **18:00 -**   | Dinner |  **End** |    
+
+## Funding
+The 2024 hackathon is supported by the [SFB 1233 Robust Vision]([https://uni-tuebingen.de](https://uni-tuebingen.de/forschung/forschungsschwerpunkte/sonderforschungsbereiche/sfb-1233/)https://uni-tuebingen.de/forschung/forschungsschwerpunkte/sonderforschungsbereiche/sfb-1233/)
+
+<img src="https://uni-tuebingen.de/fileadmin/_processed_/9/3/csm_SFB_logo_2dc8aeb754.png" alt="Funding Logo" width="200" height="200">
+
